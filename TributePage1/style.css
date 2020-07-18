@@ -1,0 +1,19 @@
+
+h1{
+    font-family: serif;
+    text-align: center;
+}
+.tribute{
+    background: black;
+    color:whitesmoke;
+}
+.name{
+    color:blue;
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+.imgtext{
+    color: blue;
+}
