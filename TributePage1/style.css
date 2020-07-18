@@ -13,9 +13,8 @@ h1{
 }
 .container{
     text-align: center;
-    background-color:gainsboro;
-
-
+     border-left: 1000px;
+    display: block;
 }
 .imgtext{
     color: blue;
