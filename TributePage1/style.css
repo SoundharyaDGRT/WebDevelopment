@@ -17,3 +17,7 @@ h1{
 .imgtext{
     color: blue;
 }
+.imgtext1{
+    font-weight: bold;
+    letter-spacing: 4px;
+}
