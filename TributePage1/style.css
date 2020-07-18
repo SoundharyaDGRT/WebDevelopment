@@ -21,3 +21,9 @@ h1{
     font-weight: bold;
     letter-spacing: 4px;
 }
+.content{
+display: block;
+border-radius: inherit;
+background:gainsboro;  
+}
+
